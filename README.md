@@ -1,24 +1,7 @@
-# reactive-vue-app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
+# Todo app with vue
+### run app ?
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Take a look at the dist
+In the dist directory is the compiled application ready to use :D
+## Go to preview
+[![Watch the video](https://drive.google.com/file/d/1dPo6JDhe78tHws3pddAhyjT1Mx1BjOcz/view)](https://youtu.be/ETRpyzzxYgo)
